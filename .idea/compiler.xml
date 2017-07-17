@@ -25,5 +25,8 @@
         <module name="HotPepperSpring" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HotPepperSpring" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
